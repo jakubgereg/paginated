@@ -1,7 +1,7 @@
 {
   "name": "@jgereg/paginated",
   "version": "0.0.1",
-  "description": "Lightweight utility package designed to dynamically render React components based on provided templates.",
+  "description": "Paginate arrays with specified page number and size, returning items and pagination details.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jakubgereg/paginated.git"
@@ -22,7 +22,24 @@
     "prepublishOnly": "npm run build",
     "test": "jest"
   },
-  "keywords": [],
+  "keywords": [
+    "pagination",
+    "paginate",
+    "array pagination",
+    "paginated array",
+    "page size",
+    "page number",
+    "pagination utility",
+    "data pagination",
+    "pagination helper",
+    "TypeScript pagination",
+    "paginate function",
+    "array slicing",
+    "pagination module",
+    "paginated results",
+    "page navigation",
+    "frontend pagination"
+  ],
   "author": "Jakub Gereg",
   "license": "ISC",
   "devDependencies": {
