@@ -1,4 +1,4 @@
-# Pagination Utility
+# Paginated
 
 This module provides a `paginate` function to help you paginate arrays of data on Frontend. The function supports specifying a page number and page size, and it returns a paginated result including the items for the specified page and pagination details.
 
@@ -7,7 +7,7 @@ This module provides a `paginate` function to help you paginate arrays of data o
 You can install it via npm:
 
 ```bash
-npm install @jgereg/paginated --save-dev
+npm install @jgereg/paginated
 ```
 
 ## Usage

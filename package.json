@@ -51,6 +51,9 @@
     "typescript": "5.3.3"
   },
   "dependencies": {},
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/jakubgereg/paginated/issues"
   },
